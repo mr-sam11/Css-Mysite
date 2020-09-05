@@ -1,0 +1,42 @@
+body{
+   margin: 0;
+   text-align: center;
+}
+
+h1{
+  color: #f55e43;
+  font-size: 70px;
+   font-family: 'sacramento',cursive;
+    margin:50px auto 0 auto ;
+}
+h2{  color: #f55e43;
+  font-family: 'Montserrat',cursive;
+}
+h3{  color: #f55e43;
+  font-family: 'Montserrat',cursive;
+}
+
+p{
+  font-family: 'Montserrat',cursive;
+}
+
+.ul{
+    text-decoration: underline;
+}
+
+.top-container{
+              background-color: 	#f5cebf;
+              padding-top: 100px;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+
+}
+
+.skill-row
+{
+  text-align: left;
+}
